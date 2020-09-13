@@ -1,0 +1,1928 @@
+{
+  ".": [
+    {
+      "kind": "separator",
+      "definition": "A declarative sentence ends with a full stop. Don't use a full stop before or after the other separators 'e', 'la', 'li', 'pi', '.', '!', '?', ':'. "
+    }
+  ],
+  "": [
+    {
+      "kind": "separator",
+      "definition": "An imperative or an interjection sentence (exclamatory) ends with an exclamation mark. Don't use an exclamation mark before or after the other separators 'e', 'la', 'li', 'pi', '.', '!', '?', ':'. "
+    }
+  ],
+  "?": [
+    {
+      "kind": "separator",
+      "definition": "An question (interrogative sentence) always ends with a question mark. Don't use a question mark before or after the other separators 'e', 'la', 'li', 'o', 'pi', '.', '!', '?', ':'. "
+    }
+  ],
+  ":": [
+    {
+      "kind": "separator",
+      "definition": "A colon is between an hint sentences and a sentences. Before and after the colon has to be complete sentences. Don't use a colon before or after the other separators 'e', 'la', 'li', 'pi', '.', '!', '?', ':'. "
+    }
+  ],
+  ",": [
+    {
+      "kind": "separator",
+      "definition": "A comma is used after an 'o' to addressing people. Optional you can put a comma before a preposition. Don't use a comma before or after the separators 'e', 'la', 'pi', '.', '!', '?', ':'. "
+    }
+  ],
+  "''": [
+    {
+      "kind": "separator",
+      "definition": "Quotation marks are used for words with original spelling or for quotes. "
+    }
+  ],
+  "'": [
+    {
+      "kind": "unofficial",
+      "definition": "An apostrophe can identify a predicate that does not contain a verb. "
+    }
+  ],
+  "#": [
+    {
+      "kind": "unofficial",
+      "definition": "Number sign "
+    }
+  ],
+  "a": [
+    {
+      "kind": "interjection",
+      "definition": "ah, ha, uh, oh, ooh, aw, well (emotion word) "
+    }
+  ],
+  "a a a": [
+    {
+      "kind": "interjection",
+      "definition": "laugh "
+    }
+  ],
+  "akesi": [
+    {
+      "kind": "adjective",
+      "definition": "amphibian-, reptilian-, slimy "
+    },
+    {
+      "kind": "noun",
+      "definition": "reptile, amphibian; non-cute animal "
+    }
+  ],
+  "ala": [
+    {
+      "kind": "adjective",
+      "definition": "no, not, none, un- "
+    },
+    {
+      "kind": "adjective numeral",
+      "definition": "null, 0 "
+    },
+    {
+      "kind": "adverb",
+      "definition": "don't "
+    },
+    {
+      "kind": "interjection",
+      "definition": "no! "
+    },
+    {
+      "kind": "noun",
+      "definition": "nothing, negation, zero "
+    }
+  ],
+  "alasa": [
+    {
+      "kind": "adjective",
+      "definition": "hunting-, -hunting, hunting "
+    },
+    {
+      "kind": "noun",
+      "definition": "hunting "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to hunt, to forage "
+    }
+  ],
+  "ale": [
+    {
+      "kind": "adjective",
+      "definition": "all, every, complete, whole (ale = ali), (depreciated) "
+    },
+    {
+      "kind": "adjective numeral",
+      "definition": "100 (official Toki Pona book) "
+    },
+    {
+      "kind": "adverb",
+      "definition": "always, forever, evermore, eternally (ale = ali), (depreciated) "
+    },
+    {
+      "kind": "noun",
+      "definition": "everything, anything, life, the universe, (depreciated) "
+    }
+  ],
+  "ali": [
+    {
+      "kind": "adjective",
+      "definition": "all, every, complete, whole (ale = ali) "
+    },
+    {
+      "kind": "adverb",
+      "definition": "always, forever, evermore, eternally (ale = ali) "
+    },
+    {
+      "kind": "noun",
+      "definition": "everything, anything, life, the universe "
+    }
+  ],
+  "anpa": [
+    {
+      "kind": "adjective",
+      "definition": "low, lower, bottom, down "
+    },
+    {
+      "kind": "adverb",
+      "definition": "downstairs, below, deep, low, deeply "
+    },
+    {
+      "kind": "noun",
+      "definition": "bottom, lower part, under, below, floor, beneath "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to prostrate oneself "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to defeat, to beat, to vanquish, to conquer, to enslave "
+    }
+  ],
+  "ante": [
+    {
+      "kind": "adjective",
+      "definition": "different, dissimilar, changed, other, unequal, differential "
+    },
+    {
+      "kind": "noun",
+      "definition": "difference, distinction, differential, variation, variance, disagreement "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to change, to alter, to modify "
+    }
+  ],
+  "ante la": [
+    {
+      "kind": "noun",
+      "definition": "if difference, if variance, if disagreement "
+    }
+  ],
+  "anu": [
+    {
+      "kind": "conjunction",
+      "definition": "or (used for decision questions) "
+    }
+  ],
+  "awen": [
+    {
+      "kind": "adjective",
+      "definition": "remaining, stationary, permanent, sedentary "
+    },
+    {
+      "kind": "adverb",
+      "definition": "still, yet "
+    },
+    {
+      "kind": "noun",
+      "definition": "inertia, continuity, continuum, stay "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to stay, to wait,to remain "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to keep "
+    }
+  ],
+  "e": [
+    {
+      "kind": "separator",
+      "definition": "An 'e' introduces a direct object. Don't use 'e' before or after the other separators 'e', 'la', 'li', 'pi', 'o', '.', '!', '?', ':', ','. "
+    }
+  ],
+  "en": [
+    {
+      "kind": "conjunction",
+      "definition": "and (used to coordinate head nouns) "
+    }
+  ],
+  "esun": [
+    {
+      "kind": "adjective",
+      "definition": "commercial, trade, marketable, for sale, salable, deductible "
+    },
+    {
+      "kind": "noun",
+      "definition": "market, shop, fair, bazaar, business, transaction "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to buy, to sell, to barter, to swap "
+    }
+  ],
+  "ijo": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "of something "
+    },
+    {
+      "kind": "noun",
+      "definition": "thing, something, stuff, anything, object "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to objectify "
+    }
+  ],
+  "ike": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "bad, negative, wrong, evil, overly complex "
+    },
+    {
+      "kind": "interjection",
+      "definition": "oh dear! woe! alas! "
+    },
+    {
+      "kind": "noun",
+      "definition": "negativity, badness, evil "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to be bad, to suck "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to make bad, to worsen "
+    }
+  ],
+  "ike la": [
+    {
+      "kind": "noun",
+      "definition": "if negativity, if badness, if evil "
+    }
+  ],
+  "ilo": [
+    {
+      "kind": "adjective",
+      "definition": "useful "
+    },
+    {
+      "kind": "adverb",
+      "definition": "usefully "
+    },
+    {
+      "kind": "noun",
+      "definition": "tool, device, machine, thing used for a specific purpose "
+    }
+  ],
+  "insa": [
+    {
+      "kind": "adjective",
+      "definition": "inner, internal "
+    },
+    {
+      "kind": "noun",
+      "definition": "inside, inner world, centre, stomach "
+    }
+  ],
+  "jaki": [
+    {
+      "kind": "adjective",
+      "definition": "dirty, gross, filthy, obscene "
+    },
+    {
+      "kind": "adverb",
+      "definition": "dirty, gross, filthy "
+    },
+    {
+      "kind": "interjection",
+      "definition": "ew! yuck! "
+    },
+    {
+      "kind": "noun",
+      "definition": "dirt, pollution, garbage, filth, feces "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to pollute, to dirty "
+    }
+  ],
+  "jan": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "human, somebody's, personal, of people "
+    },
+    {
+      "kind": "noun",
+      "definition": "person, people, human, being, somebody, anybody "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to personify, to humanize, to personalize "
+    }
+  ],
+  "jelo": [
+    {
+      "kind": "adjective",
+      "definition": "yellowish, yellowy "
+    },
+    {
+      "kind": "noun",
+      "definition": "yellow, light green "
+    }
+  ],
+  "jo": [
+    {
+      "kind": "adjective",
+      "definition": "private, personal "
+    },
+    {
+      "kind": "noun",
+      "definition": "having, possessions, content "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to have, to contain "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to get "
+    }
+  ],
+  "kala": [
+    {
+      "kind": "adjective",
+      "definition": "fish- "
+    },
+    {
+      "kind": "noun",
+      "definition": "fish, marine animal, sea creature "
+    }
+  ],
+  "kalama": [
+    {
+      "kind": "adjective",
+      "definition": "noisy, loud, rowdy "
+    },
+    {
+      "kind": "noun",
+      "definition": "sound, noise, voice "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to make noise "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to sound, to ring, to play (an instrument) "
+    }
+  ],
+  "kama": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "coming, future "
+    },
+    {
+      "kind": "noun",
+      "definition": "event, happening, chance, arrival, beginning "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to come, to become, to arrive, to happen "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to become, to mange to "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to bring about, to summon "
+    }
+  ],
+  "kasi": [
+    {
+      "kind": "adjective",
+      "definition": "vegetable, vegetal, biological, biologic, leafy "
+    },
+    {
+      "kind": "noun",
+      "definition": "plant, vegetation, herb, leaf "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to grow "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to plant, to grow "
+    }
+  ],
+  "ken": [
+    {
+      "kind": "noun",
+      "definition": "possibility, ability, power to do things, permission "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "can, is able to, is allowed to, may, is possible "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to can, may "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to make possible, to enable, to allow, to permit "
+    }
+  ],
+  "ken la": [
+    {
+      "kind": "noun",
+      "definition": "if possibility, if ability, if permission "
+    }
+  ],
+  "kepeken": [
+    {
+      "kind": "noun",
+      "definition": "use, usage, tool "
+    },
+    {
+      "kind": "preposition",
+      "definition": "with, using "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to use "
+    }
+  ],
+  "kili": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "fruity "
+    },
+    {
+      "kind": "noun",
+      "definition": "fruit, pulpy vegetable, mushroom "
+    }
+  ],
+  "kin": [
+    {
+      "kind": "adjective",
+      "definition": "indeed, still, too kin can be the very last word in an adjective group. "
+    },
+    {
+      "kind": "adverb",
+      "definition": "actually, indeed, in fact, really, objectively, kin can be the very last word in an adverb group. "
+    },
+    {
+      "kind": "interjection",
+      "definition": "really! "
+    },
+    {
+      "kind": "noun",
+      "definition": "reality, fact "
+    }
+  ],
+  "kin la": [
+    {
+      "kind": "noun",
+      "definition": "if reality, if fact "
+    }
+  ],
+  "kipisi": [
+    {
+      "kind": "noun",
+      "definition": "(unofficial): section, fragment, slice "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "(unofficial): to cut "
+    }
+  ],
+  "kiwen": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "hard, solid, stone-like, made of stone or metal "
+    },
+    {
+      "kind": "noun",
+      "definition": "hard thing, rock, stone, metal, mineral, clay "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to solidify, to harden, to petrify, to fossilize "
+    }
+  ],
+  "ko": [
+    {
+      "kind": "noun",
+      "definition": "semi-solid or squishy substance; clay, dough, glue, paste, powder, gum "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to squash, to pulverize "
+    }
+  ],
+  "kon": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "air-like, ethereal, gaseous "
+    },
+    {
+      "kind": "noun",
+      "definition": "air, wind, smell, soul "
+    },
+    {
+      "kind": "verb intransitive:",
+      "definition": "to breathe "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to blow away something, to puff away something "
+    }
+  ],
+  "kule": [
+    {
+      "kind": "adjective",
+      "definition": "colourful, pigmented, painted "
+    },
+    {
+      "kind": "noun",
+      "definition": "color, colour, paint, ink, dye, hue "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to paint, to color "
+    }
+  ],
+  "kulupu": [
+    {
+      "kind": "adjective",
+      "definition": "communal, shared, public, of the society "
+    },
+    {
+      "kind": "noun",
+      "definition": "group, community, society, company, people "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to assemble, to call together, to convene "
+    }
+  ],
+  "kute": [
+    {
+      "kind": "adjective",
+      "definition": "auditory, hearing "
+    },
+    {
+      "kind": "noun",
+      "definition": "hearing, ear "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to hear, to listen, "
+    }
+  ],
+  "la": [
+    {
+      "kind": "separator",
+      "definition": "A 'la' is between a conditional phrases and the main sentence. A context phrase can be sentence, half sentence or noun. Don't use 'la' before or after the other separators 'e', 'li', 'pi', '.', '!', '?', ':', ','. "
+    }
+  ],
+  "lape": [
+    {
+      "kind": "adjective",
+      "definition": "sleeping, of sleep, dormant "
+    },
+    {
+      "kind": "adverb",
+      "definition": "asleep "
+    },
+    {
+      "kind": "noun",
+      "definition": "sleep, rest "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to sleep, to rest "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to knock out "
+    }
+  ],
+  "laso": [
+    {
+      "kind": "adjective",
+      "definition": "bluish, bluey "
+    },
+    {
+      "kind": "noun",
+      "definition": "blue, blue-green "
+    }
+  ],
+  "lawa": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "main, leading, in charge "
+    },
+    {
+      "kind": "noun",
+      "definition": "head, mind "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to lead, to control, to rule, to steer "
+    }
+  ],
+  "len": [
+    {
+      "kind": "adjective",
+      "definition": "dressed, clothed, costumed, dressed up "
+    },
+    {
+      "kind": "noun",
+      "definition": "clothing, cloth, fabric, network, internet "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to wear, to be dressed, to dress "
+    }
+  ],
+  "lete": [
+    {
+      "kind": "adjective",
+      "definition": "cold, cool, uncooked, raw, perishing "
+    },
+    {
+      "kind": "adverb",
+      "definition": "bleakly "
+    },
+    {
+      "kind": "noun",
+      "definition": "cold, chill, bleakness "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to cool down, to chill "
+    }
+  ],
+  "li": [
+    {
+      "kind": "separator",
+      "definition": "It separates the subject phrase, except 'mi' and 'sina', from the predicate phrase. Don't use 'li' before or after the other separators 'e', 'la', 'o', 'pi', '.', '!', '?', ':', ','. "
+    }
+  ],
+  "lili": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "small, little, young, a bit, short, few, less "
+    },
+    {
+      "kind": "noun",
+      "definition": "smallness, youth, immaturity "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to reduce, to shorten, to shrink, to lessen "
+    }
+  ],
+  "linja": [
+    {
+      "kind": "adjective",
+      "definition": "elongated, oblong, long "
+    },
+    {
+      "kind": "noun",
+      "definition": "long and flexible thing; string, rope, hair, thread, cord, chain, line, yarn "
+    }
+  ],
+  "lipu": [
+    {
+      "kind": "adjective",
+      "definition": "book-, paper-, card-, ticket-, sheet-, page,- "
+    },
+    {
+      "kind": "noun",
+      "definition": "paper, book, card, ticket, sheet, (web-)page, list ; flat and bendable thing "
+    }
+  ],
+  "loje": [
+    {
+      "kind": "adjective",
+      "definition": "reddish, ruddy, pink, pinkish, gingery "
+    },
+    {
+      "kind": "noun",
+      "definition": "red "
+    }
+  ],
+  "lon": [
+    {
+      "kind": "adjective",
+      "definition": "true, existing, correct, real, genuine "
+    },
+    {
+      "kind": "noun",
+      "definition": "existence, being, presence "
+    },
+    {
+      "kind": "preposition",
+      "definition": "be (located) in/at/on "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to be there, to be present, to be real/true, to exist "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to give birth, to create "
+    }
+  ],
+  "luka": [
+    {
+      "kind": "adjective",
+      "definition": "tangible, palpable "
+    },
+    {
+      "kind": "adjective numeral",
+      "definition": "five, 5 "
+    },
+    {
+      "kind": "noun",
+      "definition": "arm, hand, tacticle organ "
+    }
+  ],
+  "lukin": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "visual(ly) "
+    },
+    {
+      "kind": "noun",
+      "definition": "view, look, glance, sight, gaze, glimpse, seeing, vision "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to look, to watch out, to pay attention "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to see, to look at, to watch, to read "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to seek to, try to, look for "
+    }
+  ],
+  "lupa": [
+    {
+      "kind": "adjective",
+      "definition": "hole-, holey, full of holes "
+    },
+    {
+      "kind": "noun",
+      "definition": "hole, orifice, door, window "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to pierce, to stab, to perforate "
+    }
+  ],
+  "ma": [
+    {
+      "kind": "adjective",
+      "definition": "countrified, outdoor, alfresco, open-air "
+    },
+    {
+      "kind": "noun",
+      "definition": "land, earth, country, (outdoor) area "
+    }
+  ],
+  "mama": [
+    {
+      "kind": "adjective",
+      "definition": "of the parent, parental, maternal, fatherly, motherly, mumsy "
+    },
+    {
+      "kind": "noun",
+      "definition": "parent, mother, father "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to mother sb., to wet-nurse, mothering "
+    }
+  ],
+  "mani": [
+    {
+      "kind": "adjective",
+      "definition": "financial, financially, monetary, pecuniary "
+    },
+    {
+      "kind": "adverb",
+      "definition": "financially "
+    },
+    {
+      "kind": "noun",
+      "definition": "money, material wealth, currency, dollar, capital "
+    }
+  ],
+  "meli": [
+    {
+      "kind": "adjective",
+      "definition": "female, feminine, womanly "
+    },
+    {
+      "kind": "noun",
+      "definition": "woman, female, girl, wife, girlfriend "
+    }
+  ],
+  "mi": [
+    {
+      "kind": "personal pronoun",
+      "definition": "I, we "
+    },
+    {
+      "kind": "possessive pronoun",
+      "definition": "my, our "
+    }
+  ],
+  "e mi": [
+    {
+      "kind": "reflexive pronoun",
+      "definition": "myself, ourselves "
+    }
+  ],
+  "mije": [
+    {
+      "kind": "adjective",
+      "definition": "male, masculine, manly "
+    },
+    {
+      "kind": "noun",
+      "definition": "man, male, husband, boyfriend "
+    }
+  ],
+  "moku": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "eating "
+    },
+    {
+      "kind": "noun",
+      "definition": "food, meal "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to eat, to drink, to swallow, to ingest, to consume "
+    }
+  ],
+  "moli": [
+    {
+      "kind": "adjective",
+      "definition": "dead, dying, fatal, deadly, lethal, mortal, deathly, killing "
+    },
+    {
+      "kind": "adverb",
+      "definition": "mortally "
+    },
+    {
+      "kind": "noun",
+      "definition": "death, decease "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to die, to be dead "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to kill "
+    },
+    {
+      "kind": "intransitives verb",
+      "definition": "dieing "
+    }
+  ],
+  "monsi": [
+    {
+      "kind": "adjective",
+      "definition": "back, rear "
+    },
+    {
+      "kind": "noun",
+      "definition": "back, rear end, butt, behind "
+    }
+  ],
+  "monsuta": [
+    {
+      "kind": "adjective",
+      "definition": "(unofficial): fearful, afraid "
+    },
+    {
+      "kind": "noun",
+      "definition": "(unofficial): monster, monstrosity, fearful thing, fright, mythical creatures, fear "
+    }
+  ],
+  "mu": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "animal nois- "
+    },
+    {
+      "kind": "interjection",
+      "definition": "woof! meow! moo! etc. (cute animal noise) "
+    },
+    {
+      "kind": "noun",
+      "definition": "animal noise "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to communicate animally "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to make animal noise "
+    }
+  ],
+  "mun": [
+    {
+      "kind": "adjective",
+      "definition": "lunar "
+    },
+    {
+      "kind": "noun",
+      "definition": "moon, lunar, night sky object, star "
+    }
+  ],
+  "musi": [
+    {
+      "kind": "adjective",
+      "definition": "artful, fun, recreational "
+    },
+    {
+      "kind": "adverb",
+      "definition": "cheerfully "
+    },
+    {
+      "kind": "noun",
+      "definition": "fun, playing, game, recreation, art, entertainment "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to play, to have fun "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to amuse, to entertain "
+    }
+  ],
+  "mute": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "many, very, much, several, a lot, abundant, numerous, more "
+    },
+    {
+      "kind": "adjective numeral",
+      "definition": "20 (official Toki Pona book) "
+    },
+    {
+      "kind": "noun",
+      "definition": "amount, quantity "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to make many or much "
+    }
+  ],
+  "namako": [
+    {
+      "kind": "adjective",
+      "definition": "spicy, piquant "
+    },
+    {
+      "kind": "noun",
+      "definition": "spice, something extra, food additive, accessory "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to spice, to flavor, to decorate "
+    }
+  ],
+  "nanpa": [
+    {
+      "kind": "adjective numeral",
+      "definition": "To build ordinal numbers. "
+    },
+    {
+      "kind": "noun",
+      "definition": "number, numeral "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to count, to reckon, to number "
+    }
+  ],
+  "nasa": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "silly, crazy, foolish, drunk, strange, stupid, weird "
+    },
+    {
+      "kind": "noun",
+      "definition": "stupidity, foolishness, silliness, nonsense, idiocy, obtuseness, muddler "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to drive crazy, to make weird "
+    }
+  ],
+  "nasin": [
+    {
+      "kind": "adjective",
+      "definition": "systematic, habitual, customary, doctrinal "
+    },
+    {
+      "kind": "noun",
+      "definition": "way, manner, custom, road, path, doctrine, system, method "
+    }
+  ],
+  "nena": [
+    {
+      "kind": "adjective",
+      "definition": "hilly, undulating, mountainous, hunchbacked, humpbacked, bumpy "
+    },
+    {
+      "kind": "noun",
+      "definition": "bump, hill, extrusion, button, mountain, nose, protuberance "
+    }
+  ],
+  "ni": [
+    {
+      "kind": "adjective demonstrative pronoun, noun demonstrative pronoun",
+      "definition": "this, that "
+    }
+  ],
+  "nimi": [
+    {
+      "kind": "noun",
+      "definition": "word, name "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to name "
+    }
+  ],
+  "noka": [
+    {
+      "kind": "adjective",
+      "definition": "foot-, lower, bottom "
+    },
+    {
+      "kind": "adverb",
+      "definition": "on foot "
+    },
+    {
+      "kind": "noun",
+      "definition": "leg, foot; organ of locomotion; bottom, lower part "
+    }
+  ],
+  "o": [
+    {
+      "kind": "interjection",
+      "definition": "hey! (calling somebody's attention) "
+    },
+    {
+      "kind": "subject",
+      "definition": "An 'o' is used for imperative (commands). 'o' replace the subject. "
+    },
+    {
+      "kind": "separator",
+      "definition": "An 'o' is used for imperative (commands): 'o' replace 'li'. "
+    }
+  ],
+  "o,": [
+    {
+      "kind": "interjection",
+      "definition": "adressing people "
+    }
+  ],
+  "oko": [
+    {
+      "kind": "adjective",
+      "definition": "optical, eye- "
+    },
+    {
+      "kind": "noun",
+      "definition": "eye "
+    }
+  ],
+  "olin": [
+    {
+      "kind": "adjective, noun",
+      "definition": "love "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to love (a person) "
+    }
+  ],
+  "ona": [
+    {
+      "kind": "personal pronoun",
+      "definition": "she, he, it, they "
+    },
+    {
+      "kind": "possessive pronoun",
+      "definition": "her, his, its "
+    }
+  ],
+  "e ona": [
+    {
+      "kind": "reflexive pronoun",
+      "definition": "himself, herself, itself, themselves "
+    }
+  ],
+  "open": [
+    {
+      "kind": "adjective",
+      "definition": "initial, starting, opening "
+    },
+    {
+      "kind": "noun",
+      "definition": "start, beginning, opening "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to open, to start, to begin, to turn on "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to begin, to start "
+    }
+  ],
+  "open la": [
+    {
+      "kind": "noun",
+      "definition": "at the opening, in the beginning "
+    }
+  ],
+  "pakala": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "destroyed, ruined, demolished, shattered, wrecked "
+    },
+    {
+      "kind": "interjection",
+      "definition": "damn! fuck! "
+    },
+    {
+      "kind": "noun",
+      "definition": "blunder, accident, mistake, destruction, damage, breaking "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to screw up, to fall apart, to break "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to screw up, to ruin, to break, to hurt, to injure, to damage "
+    }
+  ],
+  "pali": [
+    {
+      "kind": "adjective",
+      "definition": "active, work-related, operating, working "
+    },
+    {
+      "kind": "adverb",
+      "definition": "actively, briskly "
+    },
+    {
+      "kind": "noun",
+      "definition": "activity, work, deed, project "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to act, to work, to function "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to do, to make, to build, to create "
+    }
+  ],
+  "palisa": [
+    {
+      "kind": "adjective",
+      "definition": "long "
+    },
+    {
+      "kind": "noun",
+      "definition": "long hard thing; branch, rod, stick, pointy thing "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to stretch, to beat, to poke, to stab, to sexually arouse "
+    }
+  ],
+  "pan": [
+    {
+      "kind": "noun",
+      "definition": "cereal, grain; barley, corn, oat, rice, wheat; bread, pasta "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to sow "
+    }
+  ],
+  "pana": [
+    {
+      "kind": "adjective",
+      "definition": "generous "
+    },
+    {
+      "kind": "noun",
+      "definition": "giving, transfer, exchange "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to give, to put, to send, to place, to release, to emit, to cause "
+    }
+  ],
+  "pi": [
+    {
+      "kind": "separator",
+      "definition": "'pi' is used to build complex compound nouns. 'pi' separates a (pro)noun from another (pro)noun that has at least one adjective. After 'pi' could only be a noun or pronoun. Don't use 'pi' before or after the other separators 'e', 'la', 'li', 'o', '.', '!', '?', ':'. "
+    }
+  ],
+  "pilin": [
+    {
+      "kind": "adjective",
+      "definition": "sensitive, feeling, empathic "
+    },
+    {
+      "kind": "adverb",
+      "definition": "perceptively "
+    },
+    {
+      "kind": "noun",
+      "definition": "feelings, emotion, feel, think, sense, touch, "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to feel, to sense "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to feel, to think, to touch, to fumble, to fiddle "
+    }
+  ],
+  "pimeja": [
+    {
+      "kind": "adjective",
+      "definition": "black, dark "
+    },
+    {
+      "kind": "noun",
+      "definition": "darkness, shadows "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to darken "
+    }
+  ],
+  "pini": [
+    {
+      "kind": "adjective",
+      "definition": "completed, finished, past, done "
+    },
+    {
+      "kind": "adverb",
+      "definition": "ago, past, perfectly "
+    },
+    {
+      "kind": "noun",
+      "definition": "end, tip "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to end, to stop, to turn off, to finish, to close "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to stop, to finish, to end, to interrupt "
+    }
+  ],
+  "pipi": [
+    {
+      "kind": "noun",
+      "definition": "bug, insect, spider "
+    }
+  ],
+  "poka": [
+    {
+      "kind": "adjective",
+      "definition": "neighbouring "
+    },
+    {
+      "kind": "noun",
+      "definition": "side, hip, next to "
+    }
+  ],
+  "poki": [
+    {
+      "kind": "noun",
+      "definition": "container, box, bowl, cup, glass "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to box up, to put in, to can, to bottle "
+    }
+  ],
+  "pona": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "good, simple, positive, nice, correct, right "
+    },
+    {
+      "kind": "interjection",
+      "definition": "great! good! thanks! OK! cool! yay! "
+    },
+    {
+      "kind": "noun",
+      "definition": "good, simplicity, positivity "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to improve, to fix, to repair, to make good "
+    }
+  ],
+  "pona la": [
+    {
+      "kind": "noun",
+      "definition": "if good, if simplicity, if positivity "
+    }
+  ],
+  "pu": [
+    {
+      "kind": "adjective, noun",
+      "definition": "buying and interacting with the official Toki Pona book "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to buying and interacting with the official Toki Pona book "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to buy and to read (the official Toki Pona book) "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to apply (the official Toki Pona book) to "
+    }
+  ],
+  "sama": [
+    {
+      "kind": "adjective",
+      "definition": "same, similar, equal, of equal status or position "
+    },
+    {
+      "kind": "adverb",
+      "definition": "just as, equally, exactly the same, just the same, similarly "
+    },
+    {
+      "kind": "noun",
+      "definition": "equality, parity, equity, identity, par, sameness "
+    },
+    {
+      "kind": "preposition",
+      "definition": "like, as, seem "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to equate, to make equal, to make similar to "
+    }
+  ],
+  "sama la": [
+    {
+      "kind": "noun",
+      "definition": "in case of equality, if parity, on identity "
+    }
+  ],
+  "seli": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "hot, warm, cooked "
+    },
+    {
+      "kind": "noun",
+      "definition": "fire, warmth, heat "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to heat, to warm up, to cook "
+    }
+  ],
+  "selo": [
+    {
+      "kind": "noun",
+      "definition": "skin, outer form, bark, peel, shell, skin, boundary, shape "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to shelter, to protect, to guard "
+    }
+  ],
+  "seme": [
+    {
+      "kind": "question pronoun",
+      "definition": "what, which, wh- (question word) "
+    }
+  ],
+  "sewi": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "superior, elevated, religious, formal "
+    },
+    {
+      "kind": "noun",
+      "definition": "high, up, above, top, over, on "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to get up "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to lift "
+    }
+  ],
+  "sijelo": [
+    {
+      "kind": "adjective",
+      "definition": "physical, bodily, corporal, corporeal, material, carnal "
+    },
+    {
+      "kind": "adverb",
+      "definition": "physically, bodily "
+    },
+    {
+      "kind": "noun",
+      "definition": "body (of person or animal), physical state, torso "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to heal, to heal up, to cure "
+    }
+  ],
+  "sike": [
+    {
+      "kind": "adjective",
+      "definition": "round, cyclical, of one year "
+    },
+    {
+      "kind": "adverb",
+      "definition": "rotated "
+    },
+    {
+      "kind": "noun",
+      "definition": "circle, ball, cycle, sphere, wheel; round or circular thing "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to orbit, to circle, to revolve, to circle around, to rotate "
+    }
+  ],
+  "sin": [
+    {
+      "kind": "adjective",
+      "definition": "new, fresh, another, more "
+    },
+    {
+      "kind": "adverb",
+      "definition": "regenerative "
+    },
+    {
+      "kind": "noun",
+      "definition": "news, novelty, innovation, newness, new release "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to renew, to renovate, to freshen "
+    }
+  ],
+  "sina": [
+    {
+      "kind": "personal pronoun",
+      "definition": "you "
+    },
+    {
+      "kind": "possessive pronoun",
+      "definition": "yours "
+    }
+  ],
+  "e sina": [
+    {
+      "kind": "reflexive pronoun",
+      "definition": "yourself, yourselves "
+    }
+  ],
+  "sinpin": [
+    {
+      "kind": "adjective",
+      "definition": "facial, frontal, anterior, vertical "
+    },
+    {
+      "kind": "noun",
+      "definition": "face, foremost, front, wall, chest, torso "
+    }
+  ],
+  "sitelen": [
+    {
+      "kind": "adjective",
+      "definition": "figurative, pictorial, metaphorical, metaphorisch "
+    },
+    {
+      "kind": "adverb",
+      "definition": "pictorially "
+    },
+    {
+      "kind": "noun",
+      "definition": "picture, image, representation, symbol, mark, writing "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to draw, to write "
+    }
+  ],
+  "sona": [
+    {
+      "kind": "adjective",
+      "definition": "knowing, cognizant, shrewd "
+    },
+    {
+      "kind": "noun",
+      "definition": "knowledge, wisdom, intelligence, understanding "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to know, to understand "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to know, to understand, to know how to "
+    },
+    {
+      "kind": "transitives verb",
+      "definition": "to learn, to study "
+    },
+    {
+      "kind": "auxiliary verb",
+      "definition": "to know how to "
+    }
+  ],
+  "soweli": [
+    {
+      "kind": "adjective",
+      "definition": "animal "
+    },
+    {
+      "kind": "noun",
+      "definition": "animal, especially land mammal, lovable animal, beast "
+    }
+  ],
+  "suli": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "big, tall, long, adult, important "
+    },
+    {
+      "kind": "noun",
+      "definition": "size "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to enlarge, to lengthen "
+    }
+  ],
+  "suno": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "sunny, sunnily "
+    },
+    {
+      "kind": "noun",
+      "definition": "sun, light "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to light, to illumine "
+    }
+  ],
+  "supa": [
+    {
+      "kind": "adjective",
+      "definition": "flat, shallow, flat-bottomed, horizontal "
+    },
+    {
+      "kind": "noun",
+      "definition": "horizontal surface, e.g furniture, table, chair, pillow, floor "
+    }
+  ],
+  "suwi": [
+    {
+      "kind": "adjective",
+      "definition": "sweet, cute "
+    },
+    {
+      "kind": "noun",
+      "definition": "candy, sweet food "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to sweeten "
+    }
+  ],
+  "tan": [
+    {
+      "kind": "adjective",
+      "definition": "causal, "
+    },
+    {
+      "kind": "noun",
+      "definition": "origin, cause "
+    },
+    {
+      "kind": "preposition",
+      "definition": "from, by, because of, since "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to come from, originate from, come out of "
+    }
+  ],
+  "taso": [
+    {
+      "kind": "adjective",
+      "definition": "only, sole "
+    },
+    {
+      "kind": "adverb",
+      "definition": "only, just, merely, simply, solely, singly "
+    },
+    {
+      "kind": "conjunction",
+      "definition": "but, however "
+    }
+  ],
+  "tawa": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "moving, mobile "
+    },
+    {
+      "kind": "noun",
+      "definition": "movement, transportation "
+    },
+    {
+      "kind": "preposition",
+      "definition": "to, in order to, towards, for, until "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to walk, to travel, to move, to leave, to visit "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to move, to displace "
+    }
+  ],
+  "telo": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "wett, slobbery, moist, damp, humid, sticky, sweaty, dewy, drizzly "
+    },
+    {
+      "kind": "noun",
+      "definition": "water, liquid, juice, sauce "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to water, to wash with water, to put water to, to melt, to liquify "
+    }
+  ],
+  "tenpo": [
+    {
+      "kind": "adjective",
+      "definition": "temporal, chronological, chronologic "
+    },
+    {
+      "kind": "adverb",
+      "definition": "chronologically "
+    },
+    {
+      "kind": "noun",
+      "definition": "time, period of time, moment, duration, situation, occasion "
+    }
+  ],
+  "toki": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "speaking, eloquent, linguistic, verbal, grammatical "
+    },
+    {
+      "kind": "interjection",
+      "definition": "hello, hi, good morning, "
+    },
+    {
+      "kind": "noun",
+      "definition": "language, speech, tongue, lingo, jargon, "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to talk, to chat, to communicate "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to speak, to talk, to say, to pronounce, to discourse "
+    }
+  ],
+  "tomo": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "urban, domestic, household "
+    },
+    {
+      "kind": "noun",
+      "definition": "indoor constructed space, e.g. house, home, room, building "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to build, to construct, to engineer "
+    }
+  ],
+  "tu": [
+    {
+      "kind": "adjective numeral",
+      "definition": "two, 2 "
+    },
+    {
+      "kind": "noun",
+      "definition": "duo, pair "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to divide, to double, to separate, to cut in two "
+    }
+  ],
+  "unpa": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "erotic, sexual "
+    },
+    {
+      "kind": "noun",
+      "definition": "sex, sexuality "
+    },
+    {
+      "kind": "verb intransitive",
+      "definition": "to have sex "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to have sex with, to sleep with, to fuck "
+    }
+  ],
+  "uta": [
+    {
+      "kind": "adjective",
+      "definition": "oral "
+    },
+    {
+      "kind": "adverb",
+      "definition": "orally "
+    },
+    {
+      "kind": "noun",
+      "definition": "mouth, lips, oral cavity, jaw, beak "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to kiss, to osculate, to oral stimulate, to suck "
+    }
+  ],
+  "utala": [
+    {
+      "kind": "adjective, adverb",
+      "definition": "fighting "
+    },
+    {
+      "kind": "noun",
+      "definition": "conflict, disharmony, fight, war, battle, attack, violence "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to hit, to strike, to attack, to compete against "
+    }
+  ],
+  "walo": [
+    {
+      "kind": "adjective",
+      "definition": "white, whitish, light-coloured, pale "
+    },
+    {
+      "kind": "noun",
+      "definition": "white thing or part, whiteness, lightness "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to whiten, to whitewash "
+    }
+  ],
+  "wan": [
+    {
+      "kind": "adjective numeral",
+      "definition": "one, 1 "
+    },
+    {
+      "kind": "noun",
+      "definition": "unit, element, particle, part, piece "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to unite, to make one "
+    }
+  ],
+  "waso": [
+    {
+      "kind": "adjective",
+      "definition": "bird- "
+    },
+    {
+      "kind": "noun",
+      "definition": "bird, bat; flying creature, winged animal "
+    }
+  ],
+  "wawa": [
+    {
+      "kind": "adjective",
+      "definition": "energetic, strong, fierce, intense, sure, confident "
+    },
+    {
+      "kind": "adverb",
+      "definition": "strongly, powerfully "
+    },
+    {
+      "kind": "noun",
+      "definition": "energy, strength, power "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to strengthen, to energize, to empower "
+    }
+  ],
+  "weka": [
+    {
+      "kind": "adjective",
+      "definition": "absent, away, ignored "
+    },
+    {
+      "kind": "noun",
+      "definition": "absence "
+    },
+    {
+      "kind": "verb transitive",
+      "definition": "to remove, to eliminate, to throw away, to get rid of "
+    }
+  ],
+  "wile": [
+    {
+      "kind": "noun",
+      "definition": "desire, need, will "
+    },
+    {
+      "kind": "verb transitive, auxiliary verb",
+      "definition": "to want, need, wish, have to, must, will, should "
+    }
+  ],
+  "misikeke": [
+  	{
+  		"kind": "noun (pre pu)",
+  		"definition": "medicine"
+  	}
+  ]
+}
