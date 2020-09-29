@@ -201,6 +201,8 @@ int main(int, char**) {
 			_sleep(128);
 	}
 
+	shutdown();
+
 	// Cleanup
 	ImGui_ImplOpenGL3_Shutdown();
 	ImGui_ImplSDL2_Shutdown();

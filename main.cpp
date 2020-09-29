@@ -43,11 +43,28 @@ struct app_state {
 	char error_message[256];
 	char *clipboard;
 	char input[50];
+
 	word_def defs[10];
 	int def_count = 0;
+
+	JSON_Value *word_freq;
 };
 
 app_state state;
+
+
+// word freq
+void count_word(const char *word) {
+	JSON_Object *root = json_value_get_object(state.word_freq);
+	if (json_object_has_value(root, word)) {
+		double val = json_object_get_number(root, word);
+		json_object_set_value(root, word, json_value_init_number(val + 1));
+	} else {
+		json_object_set_value(root, word, json_value_init_number(1));
+	}
+	char *str =json_serialize_to_string_pretty(state.word_freq);
+}
+
 
 // dictionary stuff
 void dictionary_init() {
@@ -86,6 +103,10 @@ int dictionary_lookup(const char *word, struct word_def def[]) {
 			return 0;
 		}
 		def[i] = d;
+	}
+
+	if (count > 0) {
+		count_word(word);
 	}
 
 	return count;
@@ -148,6 +169,13 @@ static void help_maker(char *text) {
 void init() {
 	dictionary_init();
 	set_width(window_width, window_height);
+
+	JSON_Value *val = json_parse_file("word_counts.json");
+	state.word_freq = val == NULL ? json_value_init_object() : val;
+}
+
+void shutdown() {
+	json_serialize_to_file_pretty(state.word_freq, "word_counts.json");
 }
 
 void setup(SDL_Window *win, ImGuiIO& io) {
